@@ -5,7 +5,9 @@ html, body{
     height: 100%;
     overflow: scroll;
 }
-
+.h3 {
+    display: inline;
+}
 .banner {
 	background:url(../images/scripture.jpg)no-repeat center 0px;
 	-webkit-background-size:cover;
