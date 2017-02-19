@@ -7,7 +7,7 @@ html, body{
 }
 
 .banner {
-	background:url(../images/pencils.jpg)no-repeat center 0px;
+	background:url(../images/scripture.jpg)no-repeat center 0px;
 	-webkit-background-size:cover;
 	background-size:cover;
 	-moz-background-size:cover;
@@ -24,7 +24,7 @@ html, body{
 }
 .header-right {
     padding-left: 3em;
-    background-color: rgba(14, 130, 116, 0.8);
+    background-color: rgba(140, 0, 0, .8);
 }
 .header-right h1 {
     font-size: 2.5em;
@@ -88,7 +88,7 @@ ul.address li ul.address-text li a:hover{
     color: #0FF;
 }
 .link-bar {
-    background-color: rgba(14, 130, 116, 0.8);
+    background-color: rgba(128, 0, 0, 0.9);
     text-align: center;
     font-size: 20px;
 
@@ -104,11 +104,11 @@ ul.icons {
 }
 .links-hover{
     color: white;
-    background-color: grey;
+    background-color: rgb(25, 25, 25);
     height: 100%;
 }
 .info-panel {
-    background-color: rgba(14, 130, 116, 0.9);
+    background-color: rgba(128, 0, 0, 0.9);
     color: white;
     padding: 30px;
     overflow: hidden;
@@ -118,7 +118,7 @@ h1 {
     padding: 0px;
 }
 .border {
-    background-color: rgb(237, 227, 236);
+    background-color: rgb(5, 5, 5);
     padding: 30px;
 }
 
